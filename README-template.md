@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/PraiseImmanuel/insure)
+- Live Site URL: [Add live site URL here](https://praiseimmanuel.github.io/insure)
 
 ## My process
 
@@ -34,10 +34,6 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 
-
-### What I learned
-
-
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/praiseimmanuel)
+- Twitter - [@yourusername](https://www.twitter.com/praiseimmanuel2)
